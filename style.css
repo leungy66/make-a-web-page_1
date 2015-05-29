@@ -1,0 +1,63 @@
+
+* {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+html{
+	background-color: blue;
+	margin-bottom: 50px;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+	}	
+	
+h1 {
+	text-align: center;
+	background-color: #33BEBE;
+	color: #FFFFFF;
+	padding-top: 30px;
+	padding-bottom:30px;
+	padding-left: 0;
+	font-family: "Arial";
+	font-size: 2.5em;
+	font-weight: normal;
+	}
+	
+li {
+	max-width: 750px;
+	}
+	
+.subhead{
+	background-color: grey;
+	color: white;
+	display: block;
+	text-align: center;
+	font-size: 1.5em;
+		-webkit-margin-before: 0.83em;
+		-webkit-margin-after: 0.83em;
+		-webkit-margin-start: 0px;
+		-webkit-margin-end: 0px;
+	font-weight: bold;
+}
+.topic{
+	display: block;
+	font-size: 1.17em;
+		-webkit-margin-before: 1em;
+		-webkit-margin-after: 1em;
+		-webkit-margin-start: 0;
+		-webkit-margin-end: 0;
+	font-weight: bold;
+}
+
+.lesson{
+	background-color: orange;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 30px;
+	padding-right: 30px;
+	}
+	
+
